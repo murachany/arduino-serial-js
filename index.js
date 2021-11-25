@@ -4,7 +4,7 @@
 // パーストークンは \n
 // 1秒おき送信
 
-console.log("hello!");
+console.log('hello!');
 
 const SerialPort = require('serialport');
 // const port = new SerialPort('/dev/cu.usbmodem14141', { // Mac
